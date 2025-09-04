@@ -22,3 +22,13 @@ background-color: blue;
 text-align: right;
 }
 
+<<<<<<< HEAD
+=======
+th, td {
+padding: 8px;
+text-align: left;
+border-bottom: 1px solid #ddd;
+font-family: Arial
+}
+tr:nth-child(odd) {background-color: #f2f2f2;}
+>>>>>>> 68e025b29d8fd4b33bdf3b07c43fea829fc5645f
